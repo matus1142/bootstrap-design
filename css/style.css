@@ -165,6 +165,13 @@ a.text-navbar-custom{
 }
 
 
-@media (max-width : 375px){
-
+@media (max-width : 440px){
+    .topic-text-absolute{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .topic-text{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
 }
